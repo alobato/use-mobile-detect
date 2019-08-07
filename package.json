@@ -1,6 +1,6 @@
 {
   "name": "@alobato/use-mobile-detect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React hook detect mobile",
   "main": "index.js",
   "repository": "github:alobato/use-mobile-detect",

@@ -21,4 +21,7 @@ export default memo(() => {
   useMobileDetect()
   ...
 
+<Text css={css`body.mobile & { display: none; }`}>Text 1</Text>
+<Text css={css`body:not(.mobile) & { display: none; }`}>Text 2</Text>
+
 ```

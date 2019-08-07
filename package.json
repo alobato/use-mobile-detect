@@ -1,0 +1,31 @@
+{
+  "name": "@alobato/use-mobile-detect",
+  "version": "1.0.0",
+  "description": "React hook detect mobile",
+  "main": "index.js",
+  "repository": "github:alobato/use-mobile-detect",
+  "author": "alobato",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "fetch"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "react": "^16.8.0"
+  },
+  "devDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  },
+  "bugs": {
+    "url": "https://github.com/alobato/use-mobile-detect/issues"
+  },
+  "homepage": "https://github.com/alobato/use-mobile-detect#readme"
+}
